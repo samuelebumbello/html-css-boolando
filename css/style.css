@@ -47,6 +47,10 @@ header nav ul li a{
   color: white;
 }
 
+header nav ul li a:hover{
+  text-decoration-line: underline;
+}
+
 .image img{
   height: 31px;
 }
@@ -195,6 +199,14 @@ footer a{
 footer .menufoot{ 
   padding-bottom: 10px;
   font-size: 20px;
+}
+
+footer .menufoot:hover{
+  text-decoration: underline;
+}
+
+footer .menufoot2:hover{
+  text-decoration: underline;
 }
 
 footer .menufoot2{
